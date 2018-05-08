@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>ykt_01</artifactId>
-  <name>ykt_01</name>
+  <name>ykt_01</name> 
   <build>
     <plugins>
       <plugin>
